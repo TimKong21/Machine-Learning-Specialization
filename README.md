@@ -1,5 +1,5 @@
 
-# Deep Learning Specialization
+# Machine Learning Specialization
 
 A brief description of what this project does and who it's for
 The Machine Learning Specialization is a foundational online program created in collaboration between DeepLearning.AI and Stanford Online. This beginner-friendly program will teach you the fundamentals of machine learning and how to use these techniques to build real-world AI applications. 
